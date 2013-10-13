@@ -18,7 +18,7 @@ Obviously you can, and should, fork the heck out of this recipe. Chili can never
 ### Steps
 
 * Brown and drain the ground beef
-* In a crock pot, at the tomatos, beans, jalapenos and onions
+* In a crock pot, add the tomatos, beans, jalapenos and onions
 * When the beef is ready, add it into the crock pot
 * Add the spices
 * Depending on when you want to eat, choose your crock pot setting (High, Low, Keep Warm) and let the magic happen, stirring roughly once per hour.
