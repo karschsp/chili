@@ -3,7 +3,7 @@ chili
 
 My Chili recipe
 
-Obviously you can, and should, fork the heck out of this recipe. Chili can never be bad. It is always awesome. I don't follow this recipe all the time, but this is my go-to.
+Obviously you can, and should, fork (or spoon) the heck out of this recipe. Chili can never be bad. It is always awesome. I don't follow this recipe all the time, but this is my go-to.
 
 ### Ingredients
 
