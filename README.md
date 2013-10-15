@@ -21,6 +21,6 @@ Obviously you can, and should, fork (or spoon) the heck out of this recipe. Chil
 * In a crock pot, add the tomatos, beans, jalapenos and onions
 * When the beef is ready, add it into the crock pot
 * Add the spices
-* Depending on when you want to eat, choose your crock pot setting (High (you want to eat in 4 hours), Low (you want to eat in 8 hours), Keep Warm (you want to eat sometime this weeek)) and let the magic happen, stirring roughly once per hour.
+* Depending on when you want to eat, choose your crock pot setting (High (you want to eat in 4 hours), Low (you want to eat in 8 hours), Keep Warm (you want to eat sometime this week)) and let the magic happen, stirring roughly once per hour.
 * Enjoy!
 
